@@ -8,4 +8,4 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 30
     steps:
-      - uses: int128/wait-for-workflows-action@297f4f9036ef63cb5ae5b94471340637ba06c0b8 # v1.57.0
+      - uses: int128/wait-for-workflows-action@9c8c9b0ef4958709c642362e97b191dc9660ef31 # v1.87.0
